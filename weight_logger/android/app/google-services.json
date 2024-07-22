@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752814044347",
+    "project_id": "weight-logger-63577",
+    "storage_bucket": "weight-logger-63577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752814044347:android:94d81e21ba1a87f182659e",
+        "android_client_info": {
+          "package_name": "com.mit.weight_logger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjPznu5B4fkjdGTQt28MbMHGkSNa1sv-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752814044347:android:bdbb2f9bf15ed7fe82659e",
+        "android_client_info": {
+          "package_name": "com.mit.weightlogger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjPznu5B4fkjdGTQt28MbMHGkSNa1sv-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
